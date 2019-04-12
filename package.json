@@ -7,7 +7,7 @@
         "pomelo-monitor": "0.3.7",
         "pomelo-scheduler": "0.3.8",
         "socket.io": "1.0.6",
-        "socket.io-client": "^1.0.6"
+        "socket.io-client": "1.0.6"
     },
     "peerDependencies": {
         "pomelo-logger": "0.1.7"

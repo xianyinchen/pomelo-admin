@@ -6,7 +6,7 @@
         "heapdump": "0.3.7",
         "pomelo-monitor": "0.3.7",
         "pomelo-scheduler": "0.3.8",
-        "socket.io": "1.0.6",
+        "socket.io": "1.6.0",
         "socket.io-client": "1.6.0"
     },
     "peerDependencies": {
